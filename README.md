@@ -8,10 +8,10 @@
   </a>
 </h2>
 
-<div align="center">
+<!--<div align="center">
 
   ![Juan Antonio García Guillén](https://github.com/DenverCoder1.png?size=60)
-</div>
+</div>-->
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=900&size=30&pause=900&color=83988E&center=true&vCenter=true&width=450&lines=Front+End;HTML;JavaScript+-+TypeScript;CSS+-+SCSS;React+-+Angular;Full+Stack;Node+JS;AWS+-+GCP" alt="Juan Antonio García Guillén" />
