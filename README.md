@@ -104,7 +104,9 @@
 
 <div align="center">
   <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanantogg&theme=gruvbox&locale=es&langs_count=6" />
+</div>
 
+<div align="center">
   <img height=200  align="center" src="https://github-readme-stats.vercel.app/api?username=Juanantogg&show_icons=true&theme=gruvbox&include_all_commits=true&locale=es&rank_icon=percentile&show=prs_merged,prs_merged_percentage&hide=stars,contribs,issues&custom_title=Estadísticas" />
 </div>
 
