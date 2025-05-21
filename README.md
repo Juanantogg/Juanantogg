@@ -3,9 +3,12 @@
 <h2 align="center">
   Aquí
 
-  <a href="https://juan-antonio-garcia-guillen.dev">
+  <p>
+      Juan Antonio García Guillén
+  </p>
+  <!--<a href="https://juan-antonio-garcia-guillen.dev">
     Juan Antonio García Guillén
-  </a>
+  </a>-->
 </h2>
 
 <!--<div align="center">
